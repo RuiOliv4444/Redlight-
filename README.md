@@ -18,7 +18,7 @@ Para executar este projeto, é necessário ter o Python e o Django instalados no
 -Instale o Django utilizando o pip, que é o gerenciador de pacotes do Python. Execute o seguinte comando no terminal:
   ```bash
   pip intall django
-```
+´´´
 ##Configuração e Execução do Projeto
 
 Após a instalação das ferramentas, siga o passo abaixo para configurar e executar o projeto:
@@ -26,7 +26,7 @@ Após a instalação das ferramentas, siga o passo abaixo para configurar e exec
   ```bash
   cd red_project
 ```
-Aplicação das migrações do Django
+###Aplicação das migrações do Django
 Antes de iniciar o servidor, é necessário aplicar as migrações para criar as tabelas no banco de dados. Execute o comando:
   ```bash
   python manage.py migrate
@@ -34,7 +34,7 @@ Antes de iniciar o servidor, é necessário aplicar as migrações para criar as
 ##Execução do servidor Django
 -Inicie o servidor Django para acessar a aplicação. Utilize o comando:
 
-##População da Base de Dados
+###População da Base de Dados
 -Caso a base de dados ainda não esteja carregada, é necessário executar o script populate_db.py para adicionar os dados iniciais. Execute o seguinte comando no terminal:
   ```bash
   python populate_db.py
