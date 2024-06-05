@@ -13,7 +13,7 @@ Para executar este projeto, é necessário ter o Python e o Django instalados no
 - Após a instalação, verifique se o Python foi instalado corretamente executando o seguinte comando no terminal:
   ```bash
   python --version
-
+```
 ##Instalação do Django
 -Instale o Django utilizando o pip, que é o gerenciador de pacotes do Python. Execute o seguinte comando no terminal:
   ```bash
